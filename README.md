@@ -1,65 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://github.com/nevisende/awesome-books/blob/mohamedelshamy55-patch-1/screenshot.png)
 
-# Project Name
+# Awesome Books
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
+> Setup and Mobile Version Skeleton
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages - HTML, CSS
+- Frameworks - No Frameworks Used
+- Tools used - Git(version control), WebHint(linting tool), Stylelint(style linting)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+[View Live Demo]()
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
+ - A text editor(preferably Visual Studio Code)
 ### Install
-
+  -  [Git](https://git-scm.com/downloads)
+  -  [Node](https://nodejs.org/en/download/)
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+  -  cd into the project folder
+  -  Run npm install
 
 ## Authors
 
-👤 **Author1**
+👤 **Furkan Denizhan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [github](https://github.com/nevisende)
 
-👤 **Author2**
+👤 **Mohamed Elshamy**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [github](https://github.com/nevisende)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/mohamed-elshamy85/)
+- Twitter: [twitter](https://mobile.twitter.com/moelshamy55)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -70,7 +55,5 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+📝 License
+This project is MIT licensed.
